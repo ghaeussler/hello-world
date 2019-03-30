@@ -1,2 +1,2 @@
 # hello-world
-Repository capturing my notes, projects and aspirations
+Repository capturing my notes, projects and aspirations.
